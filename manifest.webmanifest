@@ -1,0 +1,9 @@
+{
+  "name": "IM 15 Reef Manager",
+  "short_name": "IM 15 Reef",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#05070b",
+  "description": "Private reef tank test journal"
+}
